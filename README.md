@@ -1,2 +1,3 @@
 # Projektmanagement
 Stuff for project management uni module
+Feel free to copy and use anywhere; it's not even being graded so who cares...
